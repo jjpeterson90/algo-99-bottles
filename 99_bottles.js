@@ -17,4 +17,4 @@ Take one down and pass it around, ${num-1} bottles of beer on the wall.`)
   return bottleSong(num - 1, original);
 };
 
-bottleSong(5);
+bottleSong();
